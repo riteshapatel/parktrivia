@@ -1,0 +1,103 @@
+[
+    {
+        "response_code": 0,
+        "results": [
+            { 
+                "category": "Zion National Park", 
+                "type": "boolean", 
+                "difficulty": "easy", 
+                "question": "Zion National Park is in Montana",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "Angel's Landing", 
+                "type": "boolean", 
+                "difficulty": "medium", 
+                "question": "Angel's landing peak is 1200ft",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "Monument Valley", 
+                "type": "boolean", 
+                "difficulty": "medium", 
+                "question": "Monument Valley is a National Park",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "YellowStone", 
+                "type": "boolean", 
+                "difficulty": "medium", 
+                "question": "Old Faithful is someone who is old and faithful :)",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "Death Valley", 
+                "type": "boolean", 
+                "difficulty": "medium", 
+                "question": "Bad Water Basin is below sea level",
+                "correct_answer": "True",
+                "incorrect_answers": ["False"]
+            },
+            {
+                "category": "Bryce Canyon", 
+                "type": "boolean", 
+                "difficulty": "hard", 
+                "question": "Hoodoos are like voodoo dolls",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "Death Valley", 
+                "type": "boolean", 
+                "difficulty": "hard", 
+                "question": "Furnace creeks sells furnaces",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "Yosemite National Park", 
+                "type": "boolean", 
+                "difficulty": "hard", 
+                "question": "Tioga Pass is the scenic route to Yosemite",
+                "correct_answer": "True",
+                "incorrect_answers": ["False"]
+            },
+            {
+                "category": "Shenandoah National Park", 
+                "type": "boolean", 
+                "difficulty": "easy", 
+                "question": "Skyline drive is beautiful",
+                "correct_answer": "True",
+                "incorrect_answers": ["False"]
+            },
+            {
+                "category": "Grand Canyon", 
+                "type": "boolean", 
+                "difficulty": "easy", 
+                "question": "Havasu Falls is in Hawaii",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "Grand Canyon", 
+                "type": "boolean", 
+                "difficulty": "medium", 
+                "question": "Crabs are found at Hermit's rest",
+                "correct_answer": "False",
+                "incorrect_answers": ["True"]
+            },
+            {
+                "category": "YellowStone", 
+                "type": "boolean", 
+                "difficulty": "medium", 
+                "question": "Tower Falls are in YellowStone",
+                "correct_answer": "True",
+                "incorrect_answers": ["False"]
+            }            
+        ]
+    }
+]
